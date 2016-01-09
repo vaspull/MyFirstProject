@@ -6,5 +6,7 @@ int main ()
 {
     cout << "Hello World!\n";
 
+//тест гитхаба
+
     return (0);
 }
